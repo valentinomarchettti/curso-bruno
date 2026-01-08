@@ -1,4 +1,4 @@
-package com.platzi.play.entity;
+package com.platzi.play.persistence.entity;
 
 import jakarta.persistence.*;
 
